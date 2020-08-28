@@ -5,6 +5,7 @@
 </div>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hojune0303@gmail.com)](mailto:hojune0303@gmail.com)
+
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCVuGDYnKqgvnae036deZRuw?view_as=subscriber)](https://www.youtube.com/channel/UCVuGDYnKqgvnae036deZRuw?view_as=subscriber)
 <!--
 **Yanghojun/Yanghojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
